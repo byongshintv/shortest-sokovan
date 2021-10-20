@@ -9,5 +9,8 @@
   "main": "index.js",
   "repository": "https://github.com/byongshintv/shortest-sokovan",
   "author": "byongshintv <rnaos0530@gmail.com>",
-  "license": "GPL"
+  "license": "GPL",
+  "scripts": {
+    "start" : "node index"
+  }
 }
