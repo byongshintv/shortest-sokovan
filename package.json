@@ -2,5 +2,12 @@
   "dependencies": {
     "express": "^4.17.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "shortest-sokovan",
+  "version": "1.0.0",
+  "description": "소코반 최단거리 계산기",
+  "main": "index.js",
+  "repository": "https://github.com/byongshintv/shortest-sokovan",
+  "author": "byongshintv <rnaos0530@gmail.com>",
+  "license": "GPL"
 }
